@@ -1,12 +1,32 @@
-<a href="http://m.hibor.com.cn/Search?searchInfo=%E5%A4%A9%E9%A3%8E%E8%AF%81%E5%88%B8">天风【慧博】</a><br><br>
+<a href="https://cloud.go-goal.com/#/report/class?type=107&second_title=%E6%8C%89%E6%9C%BA%E6%9E%84%E7%A0%94%E7%A9%B6&code=undefined&_k=rncvpn">券商研报【朝阳永续】</a><br>
 
-<a href="https://data.newrank.cn/m/s.html?s=OywvOy08KCk5&k=-23-E5-85-A8-E9-83-A8-E6-96-87-E7-AB-A0">中信证券【号内搜】</a><br><br>
+<a href="http://m.hibor.com.cn/">慧博-研报网</a><br>
 
-<a href="http://m.hibor.com.cn/Search?searchInfo=%E5%8D%8E%E8%A5%BF%E8%AF%81%E5%88%B8">华西【慧博】</a><br><br>
+<a href="https://cloud.go-goal.com/#/report/search">研报搜【朝阳永续】</a><br>
+
+<a href="http://open.genius.com.cn/cbtj/index.html">财报搜【jrj】</a><br>
+
+<a href="https://vip.jianshiapp.com/search">见闻-搜索</a><br>
+
+<a href="http://m.hibor.com.cn/Search?searchInfo=%E6%99%A8%E4%BC%9A">券商晨会</a><br><br><br>
+
+<a href="https://emdatah5.eastmoney.com/dc/ybzx/index?jn=%E5%A4%A9%E9%A3%8E%E8%AF%81%E5%88%B8&jc=80000124">天风【dfcf】</a><br>
+
+<a href="http://www.nxny.com/search.aspx?si=1&ft=0&fb=3&keyword=%u5929%u98CE%u8BC1%u5238">天风证券</a><br>
+
+<a href="http://www.nxny.com/search.aspx?si=1&ft=0&fb=3&keyword=%u4E2D%u4FE1%u8BC1%u5238">中信证券</a><br>
+
+<a href="http://www.nxny.com/search.aspx?si=1&ft=0&fb=1&keyword=%u4E2D%u4FE1%u5EFA%u6295">中信建投</a><br>
+
+<a href="http://m.hibor.com.cn/Search?searchInfo=%E5%A4%A9%E9%A3%8E%E8%AF%81%E5%88%B8">天风【慧博】</a><br>
+
+<a href="https://data.newrank.cn/m/s.html?s=OywvOy08KCk5&k=-23-E5-85-A8-E9-83-A8-E6-96-87-E7-AB-A0">中信证券【号内搜】</a><br>
+
+<a href="http://m.hibor.com.cn/Search?searchInfo=%E5%8D%8E%E8%A5%BF%E8%AF%81%E5%88%B8">华西【慧博】</a><br>
 
 <a href="https://rs-mobile.wmcloud.com/research/institution/detail?insName=%E5%A4%A9%E9%A3%8E%E8%AF%81%E5%88%B8">天风证券【萝卜投研】</a><br>
 
-<a href="https://rs-mobile.wmcloud.com/research/institution/detail?insName=%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8">中信【萝卜】</a><br>
+<a href="https://rs-mobile.wmcloud.com/research/institution/detail?insName=%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8">中信【萝卜】</a><br><br>
 
 <a href="https://rs-mobile.wmcloud.com/research/institution/detail?insName=%E6%B5%B7%E9%80%9A%E8%AF%81%E5%88%B8">海通证券</a><br>
 
